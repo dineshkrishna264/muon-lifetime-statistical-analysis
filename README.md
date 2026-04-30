@@ -7,7 +7,7 @@ This project analyzes muon decay times to estimate the mean lifetime of the muon
 ## Contents
 
 * `muon_lifetime_analysis.ipynb` — Jupyter notebook containing the full analysis
-* `Data_Science_Project_report.pdf` — Detailed report of the methodology and results
+* `Data_Science_Project_Report.pdf` — Detailed report of the methodology and results
 
 ## Methods Used
 
